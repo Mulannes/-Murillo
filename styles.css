@@ -1,9 +1,16 @@
-.body
-{
-    background-color: aqua;   
+html, body{
+    background-color: #434535;
 }
-
-.h1
-{
-    align-items: center;
+.text1{
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-family: roboto;
+}
+.text2{
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-family: roboto;
+    font-size: 24px;
 }
